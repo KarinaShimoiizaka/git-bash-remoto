@@ -1,0 +1,2 @@
+git push origin main>  envia o repositório local ao remoto
+git pull>  traz o repositório da web para o seu computador
